@@ -1,0 +1,22 @@
+{
+  "name": "back-end-onboard",
+  "version": "1.0.0",
+  "description": "Guina back-end onboarding",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielAlvesBM/back-end-onboard.git"
+  },
+  "author": "Gabriel Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielAlvesBM/back-end-onboard/issues"
+  },
+  "homepage": "https://github.com/GabrielAlvesBM/back-end-onboard",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
